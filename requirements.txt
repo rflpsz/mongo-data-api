@@ -1,0 +1,8 @@
+Flask
+gunicorn
+pymongo
+flask-cors
+python-dotenv
+python-dateutil
+dnspython
+flasgger
